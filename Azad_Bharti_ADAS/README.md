@@ -1,4 +1,4 @@
-# Vision-Based Lane and Vehicle Detection System
+# Vision-Based ADAS Projects Repository
 
 ## Student Name: AZAD BHARTI AHIRWAR
 ## ROLL NO. : 240250
@@ -32,3 +32,4 @@ processing techniques and vehicles using a pretrained YOLOv5 object detection mo
 ## Output
 The processed video is saved in:
 output_video/output.mp4
+
