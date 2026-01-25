@@ -29,8 +29,10 @@ processing techniques and vehicles using a pretrained YOLOv5 object detection mo
 3. Run the project:
    python main.py
 
-## Output
-The processed video is saved in:
-output_video/output.mp4
 
+## input video drive link
+https://drive.google.com/file/d/1cJ4eEG4T-YngqM4p2lXkJKPgLI8-C25Q/view?usp=drive_link
+
+## output video drive link
+https://drive.google.com/file/d/127sBt4sPm27qsQ9js_wFt_4PvBPq3J8C/view?usp=drive_link
 
