@@ -26,19 +26,31 @@ aggressive detection
 
 *Repository Architecture*
 
-VisionDrive/
-├── src/                     # Source code
+├── src/   # Source code
+
 │   ├── Lane/                # Lane detection and lane geometry estimation
+
 │   ├── Detection/           # YOLOv8 vehicle detection + tracking
+
 │   ├── Safety/              # Collision risk & lane departure logic
+
 │   ├── Traffic/             # ROI masking & vehicle counting
+
 │   └── main.py              # End-to-end ADAS pipeline orchestrator
+
 │
+
 ├── Weights/                 # Pretrained YOLO model weights
+
 ├── Videos/                  # Input / demo driving videos
+
 │
+
 ├── VisionDrive_Final_Project_Kushagra_Chandra_240585.ipynb  # Experiment notebook
+
 ├── Project Documentation.pdf                                # Project report
+
 ├── README.md               # Project overview and usage instructions
+
 ├── requirements.txt        # Python dependencies
 
